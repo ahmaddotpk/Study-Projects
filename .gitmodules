@@ -1,10 +1,9 @@
-[submodule "Game-Of-Words"]
+[submodule "game-of-words"]
 	path = game-of-words
-	url = https://github.com/ahmad-auth/game-of-words.git
-[submodule "Computerized-Exam-Application"]
+	url = https://github.com/ahmad-auth/game-of-words
+[submodule "computerized-exam-application"]
 	path = computerized-exam-application
-	url = https://github.com/ahmad-auth/computerized-exam-application.git
-[submodule "CLI-FTP-Application"]
+	url = https://github.com/ahmad-auth/computerized-exam-application
+[submodule "cli-ftp-application"]
 	path = cli-ftp-application
-	url = https://github.com/ahmad-auth/cli-ftp-application.git
-
+	url = https://github.com/ahmad-auth/cli-ftp-application
